@@ -1,0 +1,17 @@
+5 11
++--+------+
+|  |      |
++--+----+-+
+|       | |
++-------+-+
+2
+1 1
+3
+2 4 1
+6
+merge B1 A2
+merge A2 C2
+merge A2 B2
+split A1
+split C2
+merge A1 A2
